@@ -40,7 +40,7 @@ const Search = () => {
 
         </div>
       </form>
-      <div className="secDiv flex items-center gap-10 justify-center " >
+      <div className="secDiv flex items-center gap-10 justify-centre " >
 
           {/* SortBy */}
         <div className="singleSearch flex items-center gap-2 ">
@@ -73,7 +73,7 @@ const Search = () => {
             <option value="">Advocate</option>
           </select>
         </div>
-        
+
         <span className='text-[#a1a1a1] cursor-pointer ' >Clear all</span>
 
 
