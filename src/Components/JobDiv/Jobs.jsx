@@ -24,7 +24,7 @@ const Jobs = () => {
           
 
           <div className="company flex items-center gap-2 ">
-            <img src="src/assets/google.png" alt="https://cdn-teams-slug.flaticon.com/google.jpg" className='w-[10%]'/>
+            <img src="https://cdn-teams-slug.flaticon.com/google.jpg" alt="flutter" className='w-[10%]'/>
             <span className='text-[14px] py-[1rem] block group-hover:text-white' >Google</span>
           </div>
 
