@@ -8,7 +8,7 @@ import { BiTimeFive } from 'react-icons/bi'
 const Data = [
   {
     id: 1,
-    Image: 'src/assets/google.png',
+    Image: 'https://w7.pngwing.com/pngs/882/225/png-transparent-google-logo-google-logo-google-search-icon-google-text-logo-business.png',
     title: 'Web Developer',
     time: 'Now',
     location: 'Canada',
@@ -17,7 +17,7 @@ const Data = [
   },
   {
     id: 2,
-    Image: 'src/assets/figma.png',
+    Image: 'https://w7.pngwing.com/pngs/54/524/png-transparent-figma-app-logo-tech-companies-thumbnail.png',
     title: 'Ui/UX Developer',
     time: 'Now',
     location: 'India',
@@ -26,7 +26,7 @@ const Data = [
   },
   {
     id: 3,
-    Image: 'src/assets/huawei.png',
+    Image: 'https://png.pngitem.com/pimgs/s/509-5093420_huawei-logo-png-transparent-png.png',
     title: 'Software Engineer',
     time: '1 month',
     location: 'Dubai',
@@ -35,7 +35,7 @@ const Data = [
   },
   {
     id: 4,
-    Image: 'src/assets/flutter.png',
+    Image: 'https://app.flutterflow.io/icons/ff-icon-192.png',
     title: 'Flutter Devloper',
     time: '2 month',
     location: 'Remote',
@@ -44,7 +44,7 @@ const Data = [
   },
   {
     id: 5,
-    Image: 'src/assets/nikon.png',
+    Image: 'https://e7.pngegg.com/pngimages/14/125/png-clipart-logo-nikon-camera-nikon-logo-text-logo.png',
     title: 'IoT Engineer',
     time: 'Now',
     location: 'India',
@@ -53,7 +53,7 @@ const Data = [
   },
   {
     id: 6,
-    Image: 'src/assets/twitter.png',
+    Image: 'https://e7.pngegg.com/pngimages/708/311/png-clipart-twitter-twitter-thumbnail.png',
     title: 'Front-end Developer',
     time: '3 month',
     location: 'India',
@@ -63,7 +63,7 @@ const Data = [
   {
     id: 7,
     Image: 'src/assets/tesla.png',
-    title: 'Electrical Trainee',
+    title: 'https://assets.stickpng.com/images/5ec3e21d58550c000442773a.png',
     time: 'Now',
     location: 'USA',
     desc: ' Lorem ipsum dolor sit amet, consectetur adipiscing elit!',
@@ -71,7 +71,7 @@ const Data = [
   },
   {
     id: 8,
-    Image: 'src/assets/fedex.png',
+    Image:'https://w7.pngwing.com/pngs/175/949/png-transparent-fedex-logo-logos-logos-and-brands-icon-thumbnail.png', 
     title: 'Delivery Partner',
     time: '5 month',
     location: 'Europe',
