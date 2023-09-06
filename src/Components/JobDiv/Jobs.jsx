@@ -63,7 +63,7 @@ const Data = [
   {
     id: 7,
     Image: 'src/assets/tesla.png',
-    title: 'https://assets.stickpng.com/images/5ec3e21d58550c000442773a.png',
+    title: 'Electrical Trainee',
     time: 'Now',
     location: 'USA',
     desc: ' Lorem ipsum dolor sit amet, consectetur adipiscing elit!',
@@ -71,7 +71,7 @@ const Data = [
   },
   {
     id: 8,
-    Image:'https://w7.pngwing.com/pngs/175/949/png-transparent-fedex-logo-logos-logos-and-brands-icon-thumbnail.png', 
+    Image: 'https://w7.pngwing.com/pngs/175/949/png-transparent-fedex-logo-logos-logos-and-brands-icon-thumbnail.png',
     title: 'Delivery Partner',
     time: '5 month',
     location: 'Europe',
@@ -119,8 +119,8 @@ const Jobs = () => {
 
         {
           Data.map(({ id, Image, title, time, location, desc, company }) => {
-            return ( 
-// ----------------This will return a single job post based on the id--------
+            return (
+              // ----------------This will return a single job post based on the id--------
 
               <div key={id} className="group group/item singleJob w-[250px] p-[20px] bg-white rounded-[10px] hover:bg-blueColor shadow-2xl shadow-blue-500/20 shadow-greyIsh-400/700 hover:shadow-lg ">
 
@@ -143,7 +143,7 @@ const Jobs = () => {
                   <span className='text-[14px] py-[1rem] block group-hover:text-white' >{company}</span>
                 </div>
 
-                <button className='border-[2px] rounded-[10px] block p-[10px] w-full text-[14px] font-semibold  text-textColor hover:bg-[#3d4546]  group-hover/item:text-textColor group-hover:text-white ' >Apply Now</button>
+                <button className='border-[2px] rounded-[10px] block p-[10px] w-full text-[14px] font-semibold  text-textColor hover:bg-white  group-hover:text-textColor group-focus:text-white ' >Apply Now</button>
 
               </div>
 
