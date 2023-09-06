@@ -37,6 +37,6 @@ color:#2a68ff;
 
 
 
-/* .card{
-  background: #000;
-} */
+.card{
+  background: url(src/assets/testimonial.jpg);
+}
