@@ -9,7 +9,7 @@ const Value = () => {
         <div className="singleGrid rounded-[10px] hover:bg-[#eeedf7] p-[1.5rem]  ">
           <div className="flex items-center gap-3 ">
             <div className="imgDiv p-[4px] rounded-[.8rem] bg-[#dedef8] h-[40px] w-[40px] flex items-center justify-center  ">
-              <img src="src/assets/Xbox_one_logo.png" alt="" className='w-[70%]' />
+              <img src="https://www.freeiconspng.com/thumbs/xbox-icon/xbox-logo-icon-5.png" alt="" className='w-[70%]' />
             </div>
 
             <span className='font-semibold text-textColor text-[18px] ' >
@@ -27,7 +27,7 @@ const Value = () => {
         <div className="singleGrid rounded-[10px] hover:bg-[#f7d1e1] p-[1.5rem]  ">
           <div className="flex items-center gap-3 ">
             <div className="imgDiv p-[4px] rounded-[.8rem] bg-[#f7d1e1] h-[40px] w-[40px] flex items-center justify-center  ">
-              <img src="src/assets/NicePng_refresh-icon-png_2047577.png" alt="" className='w-[70%]' />
+              <img src="https://p7.hiclipart.com/preview/652/256/41/computer-icons-process-clip-art-step-process.jpg" alt="" className='w-[70%]' />
             </div>
 
             <span className='font-semibold text-textColor text-[18px] ' >
@@ -43,7 +43,7 @@ const Value = () => {
         <div className="singleGrid rounded-[10px] hover:bg-[#f3f2ad] p-[1.5rem]  ">
           <div className="flex items-center gap-3 ">
             <div className="imgDiv p-[4px] rounded-[.8rem] bg-[#f3f2ad] h-[40px] w-[40px] flex items-center justify-center  ">
-              <img src="src/assets/transparent-logo.jpg" alt="" className='w-[70%]' />
+              <img src="https://www.pngfind.com/pngs/m/494-4941182_analog-for-mac-photography-logo-icon-png-transparent.png" alt="" className='w-[70%]' />
             </div>
 
             <span className='font-semibold text-textColor text-[18px] ' >

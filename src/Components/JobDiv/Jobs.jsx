@@ -62,7 +62,7 @@ const Data = [
   },
   {
     id: 7,
-    Image: 'src/assets/tesla.png',
+    Image: 'https://www.freepnglogos.com/uploads/tesla-logo-png-27.png',
     title: 'Electrical Trainee',
     time: 'Now',
     location: 'USA',
